@@ -1,0 +1,1 @@
+This is Nicki's first git project!
